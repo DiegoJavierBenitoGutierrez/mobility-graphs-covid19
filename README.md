@@ -6,8 +6,12 @@ This repository contains mobility graphs for Brazil, Japan, Turkey, and South Af
 
 The repository is organized by country and type of analysis:
 
+
+
+The repository is organized by country and type of analysis:
+
+```text
 mobility-graphs-covid19/
-│
 ├── Brazil/
 │   ├── General Analysis of Dominant Patterns/
 │   │   ├── General Case/
@@ -17,7 +21,6 @@ mobility-graphs-covid19/
 │       ├── General Case/
 │       ├── Gender/
 │       └── Age Groups/
-│
 ├── Japan/
 │   ├── General Analysis of Dominant Patterns/
 │   │   ├── General Case/
@@ -27,7 +30,6 @@ mobility-graphs-covid19/
 │       ├── General Case/
 │       ├── Gender/
 │       └── Age Groups/
-│
 ├── Turkey/
 │   ├── General Analysis of Dominant Patterns/
 │   │   ├── General Case/
@@ -37,7 +39,6 @@ mobility-graphs-covid19/
 │       ├── General Case/
 │       ├── Gender/
 │       └── Age Groups/
-│
 └── SouthAfrica/
     ├── General Analysis of Dominant Patterns/
     │   ├── General Case/
