@@ -1,6 +1,20 @@
 # COVID-19 Mobility Graphs
 
-This repository contains mobility graphs for Brazil, Japan, Turkey, and South Africa, generated using data from the University of Maryland COVID-19 Trends and Impact Survey (UMD-CTIS). The repository is organized to allow easy exploration of mobility patterns and reproduction of the analyses.
+This repository contains mobility graphs for Brazil, Japan, Turkey, and South Africa, generated using data from the University of Maryland COVID-19 Trends and Impact Survey (UMD-CTIS). These graphs are the result of the study:
+
+**"Mobility Analysis during COVID-19 using Explainable Machine Learning Techniques"**  
+Diego Benito, Jose Aguilar, Juan Marcos Ramírez, Antonio Fernández Anta (January 2025)
+
+**Authors and Affiliations:**
+
+- Diego Benito, Jose Aguilar — IMDEA Networks Institute, Madrid, Spain  
+- Jose Aguilar — CEMISID, Universidad de Los Andes, Mérida, Venezuela  
+- Antonio Fernández Anta — IMDEA Software Institute, Madrid, Spain  
+- Contact emails: diego.benito@imdea.org, jose.aguilar@imdea.org, juan.ramirez@imdea.org, antonio.fernandez@imdea.org
+
+The repository is organized to allow easy exploration of mobility patterns and reproduction of the analyses.
+
+---
 
 ## Repository Structure
 
