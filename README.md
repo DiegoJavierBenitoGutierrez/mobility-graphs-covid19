@@ -46,7 +46,6 @@ mobility-graphs-covid19/
         └── Age Groups/
 ```
 
-
 - **Country folders**: Contain the mobility graphs for each country.  
 - **General Analysis of Dominant Patterns**: Graphs showing overall mobility trends, separated by general case, gender, and age groups.  
 - **Dominant Patterns of Positive Cases**: Graphs focusing on positive COVID-19 cases, also separated by general case, gender, and age groups. 
