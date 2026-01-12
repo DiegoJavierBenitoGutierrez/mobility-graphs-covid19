@@ -7,9 +7,7 @@ Diego Benito, Jose Aguilar, Juan Marcos Ramírez, Antonio Fernández Anta (Janua
 
 **Authors and Affiliations:**
 
-- Diego Benito, Jose Aguilar — IMDEA Networks Institute, Madrid, Spain  
-- Jose Aguilar — CEMISID, Universidad de Los Andes, Mérida, Venezuela
-- Juan Marcos Ramírez  —  IMDEA Networks Institute, Madrid, Spain 
+- Diego Benito, Jose Aguilar, Juan Marcos Ramírez — IMDEA Networks Institute, Madrid, Spain  
 - Antonio Fernández Anta — IMDEA Software Institute, Madrid, Spain  
 - Contact emails: diego.benito@imdea.org.
 
