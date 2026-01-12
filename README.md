@@ -6,10 +6,6 @@ This repository contains mobility graphs for Brazil, Japan, Turkey, and South Af
 
 The repository is organized by country and type of analysis:
 
-
-
-The repository is organized by country and type of analysis:
-
 ```text
 mobility-graphs-covid19/
 ├── Brazil/
@@ -48,7 +44,7 @@ mobility-graphs-covid19/
         ├── General Case/
         ├── Gender/
         └── Age Groups/
-
+```
 
 
 - **Country folders**: Contain the mobility graphs for each country.  
