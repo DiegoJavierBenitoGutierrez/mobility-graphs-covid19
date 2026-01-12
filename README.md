@@ -68,4 +68,5 @@ mobility-graphs-covid19/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/usuario/mobility-graphs-covid19.git
+git clone https://github.com/DiegoJavierBenitoGutierrez/mobility-graphs-covid19.git
+
